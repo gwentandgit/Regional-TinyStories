@@ -2,15 +2,18 @@
 
   <h1> TinyStories Regional <img src="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-indian-flag-design-png-png-image_6108311.png" width="30"> </h1>
   <i>A framework for development of Small Language Models for Indian regional languages, serving both as a practical alternative to LLMs and as a foundation for comparative analysis of tokenization strategies, machine translation performance, and linguistic complexity</i>
-  <a href="https://vizuara.ai/"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1a36ff-6d9a-4ee7-9494-3ae38adfe134_1920x600.png" alt="Vizuara Logo" style="width:90%;"> </a>
+<!--   <a href="https://vizuara.ai/"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1a36ff-6d9a-4ee7-9494-3ae38adfe134_1920x600.png" alt="Vizuara Logo" style="width:90%;"> </a> -->
 
-  [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=flat)](https://arxiv.org/abs/1234.56789)
-  [![Huggingfaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/TinyStories-Regional)
+  <!-- [![arXiv](https://img.shields.io/badge/arXiv-2504.07989-b31b1b.svg?style=flat)](https://arxiv.org/pdf/2504.07989) -->
+  
+  <h3> Anonymous HuggingFace to access our Datasets </h3>
+  
+  [![Huggingfaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/Regional-TinyStories)
 
-  [![nirvan](https://img.shields.io/badge/nirvan-black?logo=github&logoColor=white&labelColor=black&color=black&style=flat)](https://github.com/nirvan840)
+  <!-- [![nirvan](https://img.shields.io/badge/nirvan-black?logo=github&logoColor=white&labelColor=black&color=black&style=flat)](https://github.com/nirvan840)
   [![malhar](https://img.shields.io/badge/malhar-black?logo=github&logoColor=white&labelColor=black&color=black&style=flat)](https://github.com/malharinamdar)
   [![agnivo](https://img.shields.io/badge/agnivo-black?logo=github&logoColor=white&labelColor=black&color=black&style=flat)](https://github.com/agme2019)
-  [![raj](https://img.shields.io/badge/🌐-rajdandekar-black?logo=globe&logoColor=white&labelColor=black&color=black&style=flat)](https://www.linkedin.com/in/raj-abhijit-dandekar-67a33118a/?originalSubdomain=in)
+  [![raj](https://img.shields.io/badge/🌐-rajdandekar-black?logo=globe&logoColor=white&labelColor=black&color=black&style=flat)](https://www.linkedin.com/in/raj-abhijit-dandekar-67a33118a/?originalSubdomain=in) -->
   
 </div>
 <br>
@@ -32,12 +35,18 @@
 > * <i> The first version of our TinyStories Regional paper is now on arXiv and is currently being refined :) </i>
 > * <i> Some references to the paper below currently might not be accessible </i> 
 
+**_Clone_**
 ```sh
 git clone https://github.com/nirvan840/Vizuara-TinyStories-Regional.git
 ```
+**_Requirements_**
 ```sh
 pip install g4f[all] aiolimter transformers datasets huggingface_hub sentencepiece tiktoken wandb tqdm torch numpy 
 ```
+
+---
+
+![process-figure-GITHUB](https://github.com/user-attachments/assets/79632fd5-bb56-4b92-bdfc-91167f459701)
 
 ---
 
@@ -644,15 +653,8 @@ Now they will come to play every day, tell new stories. Their games in the calm 
 <br>
 
 # 📝 Citation
-If you use Vizuara's TinyStories Regional in your research, please cite us using the following BibText template: 
+If you use Anonymous in your research, please cite us using the following BibText template: 
 
 ```text
-@misc{TinyStories-Regional,
-  author = {Nirvan Patil, Malhar Inamdar, Agnivo Gosai, Raj Dandekar},
-  title = {TinyStories Regional: A Framework for Developing Regional SLMs as Proxies for Comparative Analysis},
-  year = {2025},
-  howpublished = {\url{https://github.com/nirvan840/Vizuara-TinyStories-Regional}},
-  note = {Research conducted as part of Vizuara AI Labs}
-}
-
+Anonymous
 ```
