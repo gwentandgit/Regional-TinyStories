@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1> TinyStories Regional <img src="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-indian-flag-design-png-png-image_6108311.png" width="30"> </h1>
+  <h1> Regional-TinyStories <img src="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-indian-flag-design-png-png-image_6108311.png" width="30"> </h1>
   <i>A framework for development of Small Language Models for Indian regional languages, serving both as a practical alternative to LLMs and as a foundation for comparative analysis of tokenization strategies, machine translation performance, and linguistic complexity</i>
 <!--   <a href="https://vizuara.ai/"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1a36ff-6d9a-4ee7-9494-3ae38adfe134_1920x600.png" alt="Vizuara Logo" style="width:90%;"> </a> -->
 
@@ -653,7 +653,7 @@ Now they will come to play every day, tell new stories. Their games in the calm 
 <br>
 
 # 📝 Citation
-If you use Anonymous in your research, please cite us using the following BibText template: 
+If you use Regional-TinyStories in your research, please cite us using the following BibText template: 
 
 ```text
 Anonymous
